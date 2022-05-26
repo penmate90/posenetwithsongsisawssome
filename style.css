@@ -1,0 +1,25 @@
+.header{
+width: 100%;
+font-size: 25px;
+margin-top: 1px;
+}
+#note{
+    color: black;
+    font-size: 15px
+}
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid rgb(241, 87, 82);
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px;
+    margin-top: 40px;
+    transform: scaleX(-1);
+}
+
+.play{
+    width: 150px;
+    font-size: 20px;
+}
